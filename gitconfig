@@ -1,0 +1,11 @@
+[user]
+	name = Wade Pate
+	email = wadejp8@gmail.com
+[init]
+	defaultBranch = dev
+[safe]
+	directory = /home/wadejp8/git/work/aicc/aicc-backend/mongo-volume/aicc-collections
+[push]
+	default = current
+[pull]
+	ff = only
